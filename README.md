@@ -9,16 +9,12 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 <br/>
 È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente link [https://datawrapper.dwcdn.net/k8ZFU/](https://datawrapper.dwcdn.net/k8ZFU/)
 <br/>
-<hr/>
-<iframe title="Nuovi Casi di Contagio Giornalieri suddivisi per RegioniUltima Rilevazione" aria-label="Column Chart" id="datawrapper-chart-7Qdip" src="//datawrapper.dwcdn.net/7Qdip/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="Nuovi Casi di Contagio Giornalieri - Italia" aria-label="chart" id="datawrapper-chart-UIaaE" src="https://datawrapper.dwcdn.net/UIaaE" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 <br/>
-Puoi **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando l'indirizzo [https://datawrapper.dwcdn.net/7Qdip/](https://datawrapper.dwcdn.net/7Qdip/) o il codice sottostante
-
-```html
-<iframe title="Nuovi Casi di Contagio Giornalieri suddivisi per RegioniUltima Rilevazione" aria-label="Column Chart" id="datawrapper-chart-7Qdip" src="//datawrapper.dwcdn.net/7Qdip/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
-</script>
-```
+È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente link [https://datawrapper.dwcdn.net/UIaaE/](https://datawrapper.dwcdn.net/k8ZFU/)
+<br/>
+<hr/>
 
 <br/>
 <iframe title="Nuovi Casi di Contagio Giornalieri - Sicilia" aria-label="Column Chart" id="datawrapper-chart-vojcP" src="//datawrapper.dwcdn.net/vojcP/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
