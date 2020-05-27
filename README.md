@@ -1,4 +1,4 @@
-## by OpenPatti
+## OpenPatti
 
 Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-19** in **Italia** e in **Sicilia** e, grazie ai dati resi disponibili da [***Open Data Sicilia***](//github.com/opendatasicilia/COVID-19_Sicilia), mostriamo anche alcune visualizzazioni di dettaglio riguardanti le **singole province siciliane** e **Messina** in particolare.
 
