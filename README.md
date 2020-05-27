@@ -52,4 +52,9 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 
 # Grafici riguardanti la situazione in provincia di Messina
 
+<iframe title="Covid-19 - Provincia di Messina" aria-label="Interactive line chart" id="datawrapper-chart-68lnY" src="//datawrapper.dwcdn.net/68lnY/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente link [https://datawrapper.dwcdn.net/68lnY/](https://datawrapper.dwcdn.net/68lnY/)
+<br/>
+
 
