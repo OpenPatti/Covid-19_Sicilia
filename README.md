@@ -1,4 +1,6 @@
 # Covid-19_Sicilia by OpenPatti
+---
+## Italia
 Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-19** in **Italia** e in **Sicilia** e, grazie ai dati resi disponibili da [***Open Data Sicilia***](//github.com/opendatasicilia/COVID-19_Sicilia), anche alcune visualizzazioni di dettaglio riguardanti le **singole province siciliane** e **Messina** in particolare.
 
 <iframe title="Covid-19 in Italia" aria-label="Interactive line chart" id="datawrapper-chart-k8ZFU" src="https://datawrapper.dwcdn.net/k8ZFU/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="290"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -6,6 +8,7 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 <br/>
 È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando l'indirizzo [https://datawrapper.dwcdn.net/k8ZFU/](https://datawrapper.dwcdn.net/k8ZFU/)
 <br/>
+---
 <iframe title="Nuovi Casi di Contagio Giornalieri suddivisi per RegioniUltima Rilevazione" aria-label="Column Chart" id="datawrapper-chart-7Qdip" src="//datawrapper.dwcdn.net/7Qdip/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 <br/>
