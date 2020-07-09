@@ -3,7 +3,7 @@
 Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-19** in **Italia** e in **Sicilia** e, grazie ai dati resi disponibili da [***Open Data Sicilia***](//github.com/opendatasicilia/COVID-19_Sicilia), mostriamo anche alcune visualizzazioni di dettaglio riguardanti le **singole province siciliane** e **Messina** in particolare.
 
 # Grafici riguardanti la situazione in Italia
-<iframe width="100%" src="https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB" frameborder="0" style="border:0"></iframe>
+<iframe width="100%" height="100%" src="https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB" frameborder="0" style="border:0"></iframe>
 È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente link [https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB](https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB)
 <br/>
 
