@@ -3,6 +3,12 @@
 Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-19** in **Italia** e in **Sicilia** e, grazie ai dati resi disponibili da [***Open Data Sicilia***](//github.com/opendatasicilia/COVID-19_Sicilia), mostriamo anche alcune visualizzazioni di dettaglio riguardanti le **singole province siciliane** e **Messina** in particolare.
 
 # Grafici riguardanti la situazione in Italia
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB" frameborder="0" style="border:0" allowfullscreen></iframe>
+È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente link [https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB](https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB)
+<br/>
+
+
+
 
 <iframe title="Covid-19 in Italia" aria-label="Interactive line chart" id="datawrapper-chart-k8ZFU" src="https://datawrapper.dwcdn.net/k8ZFU/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="434"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
