@@ -4,7 +4,7 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 
 # Grafici riguardanti la situazione in Italia
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
-<iframe src="https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB" frameborder="0" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 80%;" allowfullscreen></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 80%;" allowfullscreen></iframe>
 È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente <a href="https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB" target="_blank"><b>link</b></a>
 </div>
 <br/>
