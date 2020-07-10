@@ -10,7 +10,7 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 <br/>
 
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
-<iframe src="https://datastudio.google.com/reporting/0a1cc4dd-6509-457e-853d-62af07c54e19" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/0a1cc4dd-6509-457e-853d-62af07c54e19/page/akjXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
 
 <br/>
