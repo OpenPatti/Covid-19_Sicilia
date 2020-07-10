@@ -38,11 +38,20 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 <iframe title="Covid-19 in Sicilia - Principali Parametri" aria-label="Interactive line chart" id="datawrapper-chart-6RDDd" src="https://datawrapper.dwcdn.net/6RDDd/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente link [https://datawrapper.dwcdn.net/6RDDd/](https://datawrapper.dwcdn.net/6RDDd/)
+
+<br/>
+
+<!-- Sicilia - Nuovi Casi di Contagio Giornalieri -->
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
+<iframe src="https://datastudio.google.com/embed/reporting/c277d19f-0f54-4641-bda0-a6cf0c2a56b4/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
+
 <br/>
 
 <iframe title="Nuovi Casi di Contagio Giornalieri - Sicilia" aria-label="chart" id="datawrapper-chart-vojcP" src="https://datawrapper.dwcdn.net/vojcP/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente link [https://datawrapper.dwcdn.net/vojcP/](https://datawrapper.dwcdn.net/vojcP/)
+
 <br/>
 
 <iframe title="Nuovi Casi di Contagio Giornalieri - Province Siciliane" aria-label="chart" id="datawrapper-chart-hkVSE" src="https://datawrapper.dwcdn.net/hkVSE/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
