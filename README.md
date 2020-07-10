@@ -17,6 +17,13 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 
 <br/>
 
+<!-- Italia - Nuovi Casi di Contagio Giornalieri -->
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
+<iframe src="https://datastudio.google.com/embed/reporting/2b3de627-d55e-419f-9931-56bd3fd66e07/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
+
+<br/>
+
 <iframe title="Nuovi Casi di Contagio Giornalieri - Italia" aria-label="chart" id="datawrapper-chart-UIaaE" src="https://datawrapper.dwcdn.net/UIaaE" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 È possibile **utilizzare questo grafico** e includerlo in un post o in una pagina web copiando ed incollando il seguente link [https://datawrapper.dwcdn.net/UIaaE/](https://datawrapper.dwcdn.net/UIaaE/)
