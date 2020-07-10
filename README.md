@@ -6,6 +6,13 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
 <iframe src="https://datastudio.google.com/embed/reporting/a1079887-e7f0-465c-a9fd-933a3a0a0dd4/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
+
+<br/>
+
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
+<iframe src="https://datastudio.google.com/reporting/0a1cc4dd-6509-457e-853d-62af07c54e19" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
+
 <br/>
 
 <iframe title="Confronto Regioni - Ultima Rilevazione" aria-label="chart" id="datawrapper-chart-4Qg8U" src="https://datawrapper.dwcdn.net/4Qg8U/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="480"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
