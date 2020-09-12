@@ -49,6 +49,13 @@ Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-1
 
 <br/>
 
+<!-- Covid-19 in Sicilia - suddivisione dei positivi -->
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
+<iframe src="https://datastudio.google.com/embed/reporting/8bc3e062-5e7a-4cff-9042-87ffa1942a1d/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
+
+<br/>
+
 <!-- Sicilia - Nuovi Casi di Contagio Giornalieri -->
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
 <iframe src="https://datastudio.google.com/embed/reporting/c277d19f-0f54-4641-bda0-a6cf0c2a56b4/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
