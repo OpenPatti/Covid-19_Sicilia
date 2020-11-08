@@ -43,6 +43,13 @@ I grafici che trovate in questa pagina sono quindi aggiornati attingendo diretta
 
 <br/>
 
+<!-- Covid-19 in Italia - % di Nuovi Positivi su Tamponi Giornalieri -->
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
+<iframe src="https://datastudio.google.com/embed/reporting/f978e45f-be3a-45ba-a122-cffd5f9cf4ed/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
+
+<br/>
+
 <!-- Covid-19 in Italia - Positivi in Terapia Intensiva -->
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
 <iframe src="https://datastudio.google.com/embed/reporting/7711413e-be32-4c8d-995a-e48a12c49ddc/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
