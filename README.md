@@ -83,11 +83,17 @@ I grafici che trovate in questa pagina sono quindi aggiornati attingendo diretta
 
 <!-- Covid-19 in Sicilia - Positivi in Terapia Intensiva -->
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
-<iframe src="https://datastudio.google.com/embed/reporting/2e0bdc6d-d715-4f62-929a-296dced3e1b0/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/ce8dfe5b-a8fc-4cd1-897f-a4219abd2166/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
 
 <br/>
 
+<!-- Covid-19 in Sicilia - Decessi Giornalieri -->
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
+<iframe src="https://datastudio.google.com/embed/reporting/2e0bdc6d-d715-4f62-929a-296dced3e1b0/page/CBXXB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
+
+<br/>
 
 <!-- Covid-19 nelle Province Siciliane - Nuovi Positivi -->
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
