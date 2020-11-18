@@ -1,4 +1,4 @@
-![OpenPatti](https://openpatti.files.wordpress.com/2020/11/cropped-openpatti.jpg)(https://openpatti.wordpress.com)
+![OpenPatti](https://raw.githubusercontent.com/OpenPatti/openpatti.github.io/master/images/OpenPatti.jpg)(https://openpatti.wordpress.com)
 # [OpenPatti](https://openpatti.wordpress.com)<br/>
 ## [Covid-19: I numeri della pandemia in Italia e in Sicilia](https://openpatti.github.io/Covid-19_Sicilia/)<br/>
 <!--[**https://openpatti.github.io/Covid-19_Sicilia**](https://openpatti.github.io/Covid-19_Sicilia/)<br/><br/>-->
