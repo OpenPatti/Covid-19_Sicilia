@@ -1,4 +1,4 @@
-<a href="https://openpatti.wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/OpenPatti/openpatti.github.io/master/images/OpenPatti.jpg" style="width: 33%;" align="center" /></a>
+<a href="https://openpatti.wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/OpenPatti/openpatti.github.io/master/images/OpenPatti.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 33%;" /></a>
 # [Covid-19: i numeri della pandemia in Italia e in Sicilia](https://openpatti.github.io/Covid-19_Sicilia/)<br/>
 <!--[**https://openpatti.github.io/Covid-19_Sicilia**](https://openpatti.github.io/Covid-19_Sicilia/)<br/><br/>-->
 Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-19** in **Italia** e in **Sicilia**.<br/>
