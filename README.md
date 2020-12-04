@@ -1,4 +1,4 @@
-###### [OpenPatti Web Site](https://openpatti.wordpress.com){:target="_blank"}
+###### [OpenPatti Web Site](https://openpatti.wordpress.com){:target="_blank" style="display: block; text-align: right;"}
 ###### [La pandemia a Patti](https://openpatti.github.io/Covid-19_Patti){:target="_blank"}
 <h6><a href="https://openpatti.wordpress.com" target="_blank" style="display: block; text-align: right;">OpenPatti Web Site</a></h6>
 <a href="https://openpatti.wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/OpenPatti/openpatti.github.io/master/images/OpenPatti.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 33%;" /></a>
