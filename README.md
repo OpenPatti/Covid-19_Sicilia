@@ -5,7 +5,7 @@
 Abbiamo raccolto in questa pagina alcuni grafici relativi all'epidemia **Covid-19** in **Italia** e in **Sicilia**.<br/>
 Inizialmente, grazie ai dati resi disponibili da [***Open Data Sicilia***](//github.com/opendatasicilia/COVID-19_Sicilia){:target="_blank"}, mostravamo anche alcune visualizzazioni di dettaglio riguardanti le **singole province siciliane** e **Messina** in particolare. Ma dal **22 Giugno 2020** la **Regione Siciliana**, cui Open Data Sicilia [**aveva più volte chiesto**](http://opendatasicilia.it/tag/covid19/){:target="_blank"} maggiori dettagli e una maggiore qualità dei dati pubblicati, non diffonde più quei dati ***#Covid-19*** che consentivano di avere un quadro più dettagliato della situazione nelle **province siciliane** ed è per questa ragione, motivata anche dall'impennata autunnale dei valori, che abbiamo deciso di rimuovere quei grafici ormai datati.<br/><br/>
 I grafici che trovate in questa pagina sono quindi aggiornati attingendo direttamente ai dati resi ***quotidianamente*** disponibili dal **Dipartimento della Protezione Civile**.<br/><br/>
-**Attenzione!** l'aggiornamento e il caricamento dei dati può richiedere l'attesa di alcuni secondi per la visualizzazione dei grafici.{style="background-color: #ffff00;"}<br/>
+**Attenzione!** l'aggiornamento e il caricamento dei dati può richiedere l'attesa di alcuni secondi per la visualizzazione dei grafici.{style='background-color: #ffff00;'}<br/>
 Facendo scorrere il mouse sul grafico vengono visualizzati i valori giornalieri. 
 <br/><br/>
 
