@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F7RCG3ZWTQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F7RCG3ZWTQ');
+</script>
+
 ###### [OpenPatti Web Site](https://openpatti.wordpress.com){:target="_blank" style="text-align: left;"} 
 <a href="https://openpatti.wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/OpenPatti/openpatti.github.io/master/images/OpenPatti.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 33%;" /></a>
 ## [Covid-19: l'andamento della pandemia in Italia e in Sicilia](https://openpatti.github.io/Covid-19_Sicilia/)<br/>
